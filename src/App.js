@@ -24,10 +24,7 @@ class App extends Component{
                 {Object.entries(this.state.artShowcaseData).map( ([date, value]) =>
                           <TitleContainer key={date} title={this.state.artShowcaseData[date]["prompt"]} date={date} columns={this.state.artShowcaseData[date]["submissions"]}/>
                 )}
-      
-                {/* <TitleContainer title={"hot springs / hot tub!"} date={" — 05/23/2021"} media={[]}/> */}
               </Container>
-
               : <></>
         }
       </div>
