@@ -1,16 +1,17 @@
 import {Component} from 'react';
 import {Row, Accordion,Col, Collapse} from 'react-bootstrap';
-import "../CSS/title.css";
+import "../CSS/main.css";
 import Media from "./Media";
 class TitleContainer extends Component{
     constructor(props) {
         super(props);
         this.state = {
           open:false,
+          keepMedia:false
         }
     }; 
     setOpen = (isOpen) => {
-        this.setState({open:!isOpen})
+        this.setState({open:!isOpen, keepMedia:true})
     }
     render(){
       return (
@@ -24,25 +25,25 @@ class TitleContainer extends Component{
                 </Col>
                 <Col className="coltest2" >
                     <Row className="rowtest1" onClick={()=>this.setOpen(this.state.open)} >
-                        <h3>{this.props.date +" "+this.props.title}</h3>
+                        <h3>{this.props.date +" | "+this.props.title}</h3>
                     </Row>
                     <Collapse in={this.state.open}>
                         <div className="testRowContainer2">
                              <div className="column">
                                  {this.props.columns[0].map((mediaInfo,num)=>
-                                    <Media showcaseClicked={this.state.open} key={num} mediaType={mediaInfo.mediaType} mediaLink={mediaInfo.mediaLink} author={mediaInfo.author} text={mediaInfo.text}/>) }
+                                    <Media showcaseClicked={this.state.keepMedia} key={num} discordLink={mediaInfo.discordLink} spoiler={mediaInfo.spoiler} mediaType={mediaInfo.mediaType} mediaLink={mediaInfo.mediaLink} author={mediaInfo.author} text={mediaInfo.text}/>) }
                              </div>
                              <div className="column">
                                 {this.props.columns[1].map((mediaInfo,num)=>
-                                    <Media showcaseClicked={this.state.open} key={num} mediaType={mediaInfo.mediaType} mediaLink={mediaInfo.mediaLink} author={mediaInfo.author} text={mediaInfo.text}/>) }
+                                    <Media showcaseClicked={this.state.keepMedia} key={num} discordLink={mediaInfo.discordLink} spoiler={mediaInfo.spoiler} mediaType={mediaInfo.mediaType} mediaLink={mediaInfo.mediaLink} author={mediaInfo.author} text={mediaInfo.text}/>) }
                              </div>
                              <div className="column">
                                 {this.props.columns[2].map((mediaInfo,num)=>
-                                    <Media showcaseClicked={this.state.open} key={num} mediaType={mediaInfo.mediaType} mediaLink={mediaInfo.mediaLink} author={mediaInfo.author} text={mediaInfo.text}/>) }
+                                    <Media showcaseClicked={this.state.keepMedia} key={num} discordLink={mediaInfo.discordLink} spoiler={mediaInfo.spoiler} mediaType={mediaInfo.mediaType} mediaLink={mediaInfo.mediaLink} author={mediaInfo.author} text={mediaInfo.text}/>) }
                              </div>
                              <div className="column">
                                 {this.props.columns[3].map((mediaInfo,num)=>
-                                    <Media showcaseClicked={this.state.open} key={num} mediaType={mediaInfo.mediaType} mediaLink={mediaInfo.mediaLink} author={mediaInfo.author} text={mediaInfo.text}/>) }
+                                    <Media showcaseClicked={this.state.keepMedia} key={num} discordLink={mediaInfo.discordLink} spoiler={mediaInfo.spoiler} mediaType={mediaInfo.mediaType} mediaLink={mediaInfo.mediaLink} author={mediaInfo.author} text={mediaInfo.text}/>) }
                              </div>
                              
                         </div>

@@ -2,7 +2,7 @@
 import {Component} from 'react';
 import {Modal} from 'react-bootstrap';
 import YoutubeEmbed from './YoutubeEmbed';
-import "../CSS/title.css";
+import "../CSS/main.css";
 class Media extends Component{
     constructor(props) {
         super(props);
@@ -23,7 +23,11 @@ class Media extends Component{
           <>
             { this.props.showcaseClicked ? 
                 (this.props.mediaType==="image" ? 
-                    <img alt="" src={this.props.mediaLink} onClick={this.handleShow} /> :
+                    (this.props.spoiler==="false" ? 
+                        <img alt="" src={this.props.mediaLink} onClick={this.handleShow} /> :    
+                        <img className={"spoiler"} alt="" src={this.props.mediaLink} onClick={this.handleShow} />
+                    )
+                    :
                     <YoutubeEmbed embedId={this.props.mediaLink} />
                 )
                 :
@@ -37,11 +41,12 @@ class Media extends Component{
                     }
                 </Modal.Body>
                 <Modal.Footer>
-                    <p>
+                    <p className="text-modal">
                     {this.props.text && this.props.author ? this.props.text +" -"+this.props.author :
                         this.props.author ? " -"+this.props.author :null }
                     </p>
 
+                    <a className="discordMessageLink" href={this.props.discordLink} target="_blank" rel="noopener noreferrer">Discord Message Link</a>
                 </Modal.Footer>
             </Modal>
           </>
