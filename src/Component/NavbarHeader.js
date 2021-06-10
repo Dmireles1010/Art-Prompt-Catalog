@@ -30,7 +30,7 @@ class NavbarHeader extends Component{
                         <Nav.Link  href={"https://www.reddit.com/r/thegoldengator/"} target="_blank" rel="noopener noreferrer">Reddit</Nav.Link>
                         <Nav.Link  href={"https://www.twitch.tv/roflgator"} target="_blank" rel="noopener noreferrer">Rolfgator's Twitch</Nav.Link>
                         <Nav.Link  href={"https://goldengator.booru.org/index.php?page=post&s=list&tags=all"} target="_blank" rel="noopener noreferrer">Gatorbooru</Nav.Link>
-                        <Nav.Link href={"https://gggamenightchatleaderboard.herokuapp.com/"} target="_blank" rel="noopener noreferrer" >Gamenight Chat Prediction Leaderboard</Nav.Link>
+                        <Nav.Link href={"https://vrchat-legends.fandom.com/wiki/The_Golden_Gator"} target="_blank" rel="noopener noreferrer" >Wiki</Nav.Link>
                         <OverlayTrigger trigger="click" placement="auto" rootClose overlay={popover}>
                             <Nav.Link >About</Nav.Link>
                         </OverlayTrigger>
