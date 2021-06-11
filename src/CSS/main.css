@@ -96,7 +96,7 @@
     background-color: #282c34;
 }
 .modal img{
-    width: auto;
+    width: 100%;
     max-width: 798px;
     max-height: 85vh;
     min-height: 200px;
