@@ -51,7 +51,7 @@ class MediaBlock extends Component{
             
                 <Modal centered show={this.state.show} onHide={this.handleClose} size='xl'>
                     <Modal.Body>
-                        { this.props.showcaseClicked && this.props.mediaType==="image"? 
+                        { this.state.imageAlreadyLoaded && this.props.mediaType==="image"? 
                             <img alt="" src={this.props.mediaLink}/>:
                             <img alt=""/>
                         }
