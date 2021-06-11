@@ -10,9 +10,9 @@ const popover = (
         <hr/>
         Any <strong>NSFW</strong> art is blurred out. Clicking image will unblur and expand. <br/>
         <hr/>
-        Site uses the full resolution of discord images, so images may load slow.<br/> Visit <i>Gatorbooru</i> for more art.<br/>
+        Visit <i>Gatorbooru</i> for more art of the community.<br/>
         <hr/>
-        Website built by <strong>Davu#8785</strong>
+        Website built by <strong>Davu#8785</strong>. <br/>Message me on discord for any issues or concerns. 
       </Popover.Content>
     </Popover>
   );
