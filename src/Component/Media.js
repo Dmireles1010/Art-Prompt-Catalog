@@ -9,7 +9,8 @@ class MediaBlock extends Component{
         super(props);
         this.state = {
           show:false,
-          imageAlreadyLoaded:false
+          imageAlreadyLoaded:false,
+          loadingMainImage:true
         }
     }; 
     handleShow = () => {
@@ -32,6 +33,16 @@ class MediaBlock extends Component{
           return {};
         }
       }
+      checkLoadStyle = () => {
+        //Fade in only the first time we enter the viewport
+        if(!this.state.loadingMainImage){
+          return ("loadedImg");
+        }
+        else{
+            return ("loadingImg");
+        }
+
+      }
     render(){
       return (
           <>
@@ -52,7 +63,8 @@ class MediaBlock extends Component{
                 <Modal centered show={this.state.show} onHide={this.handleClose} size='xl'>
                     <Modal.Body>
                         { this.state.imageAlreadyLoaded && this.props.mediaType==="image"? 
-                            <img alt="" src={this.props.mediaLink}/>:
+                            <img alt=""  className={this.checkLoadStyle()} onLoad={() => this.setState({loadingMainImage: false})} src={this.props.mediaLink}/>
+                            :
                             <img alt=""/>
                         }
                     </Modal.Body>
