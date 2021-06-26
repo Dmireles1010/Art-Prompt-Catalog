@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import './App.css';
 import {Container} from 'react-bootstrap';
 import TitleContainer from './Component/TitleContainer';
-import data from './showcaseData/showcasesNew.json'
+import data from './showcaseData/totalShowcaseData.json'
 import NavbarHeader from './Component/NavbarHeader';
 class App extends Component{
 
