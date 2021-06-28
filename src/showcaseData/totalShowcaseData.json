@@ -71142,5 +71142,895 @@
                 }
             ]
         ]
+    },
+    "2021-06-27": {
+        "prompt": "Video / music showcase",
+        "submissions": [
+            [
+                {
+                    "mediaType": "youtube",
+                    "author": "BustUrShelf#4184",
+                    "mediaLink": "kXzwGklZlXA",
+                    "discordLink": "https://discord.com/channels/124710211960176640/701637376274858034/858918214821478460",
+                    "reactions": [
+                        {
+                            "emoji": {
+                                "id": "814612942309949481",
+                                "name": "roflgatorPog"
+                            },
+                            "count": 16,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "814612945710481438",
+                                "name": "roflgatorLove"
+                            },
+                            "count": 3,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "762150730483105823",
+                                "name": "WOW",
+                                "animated": true
+                            },
+                            "count": 2,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "794796044541624320",
+                                "name": "NODDERS",
+                                "animated": true
+                            },
+                            "count": 3,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "635557180602581016",
+                                "name": "Pog"
+                            },
+                            "count": 2,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "845647060425769020",
+                                "name": "pepeCD",
+                                "animated": true
+                            },
+                            "count": 2,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "725031108189618226",
+                                "name": "roflgatorInvestigate"
+                            },
+                            "count": 1,
+                            "me": false
+                        }
+                    ],
+                    "spoiler": "false"
+                },
+                {
+                    "mediaType": "youtube",
+                    "author": "ThatOneLittleNoob#0465",
+                    "mediaLink": "QQveKzl9ylI",
+                    "discordLink": "https://discord.com/channels/124710211960176640/701637376274858034/858918218407346227",
+                    "reactions": [
+                        {
+                            "emoji": {
+                                "id": "844965017144393768",
+                                "name": "klaatusit1"
+                            },
+                            "count": 14,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "766464998612271155",
+                                "name": "WAYTOOCRUMP",
+                                "animated": true
+                            },
+                            "count": 1,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "759578059841470524",
+                                "name": "OMEGALUL"
+                            },
+                            "count": 2,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "798803845903417344",
+                                "name": "omegalul"
+                            },
+                            "count": 2,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "562445755206598656",
+                                "name": "OMEGALUL"
+                            },
+                            "count": 2,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "562440529573576714",
+                                "name": "OMEGALUL"
+                            },
+                            "count": 2,
+                            "me": false
+                        }
+                    ],
+                    "spoiler": "false"
+                },
+                {
+                    "mediaType": "youtube",
+                    "author": "Sinetha#9674",
+                    "mediaLink": "iFqAI5NgX0o",
+                    "discordLink": "https://discord.com/channels/124710211960176640/701637376274858034/858918266314162196",
+                    "reactions": [
+                        {
+                            "emoji": {
+                                "id": "845020509929340999",
+                                "name": "crumpHappy"
+                            },
+                            "count": 21,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "845020507371995236",
+                                "name": "crumpSuffer"
+                            },
+                            "count": 2,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "845020506633011231",
+                                "name": "crumpL"
+                            },
+                            "count": 6,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "770783636571422750",
+                                "name": "crumpL"
+                            },
+                            "count": 4,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "845020512718815254",
+                                "name": "crumpCrump"
+                            },
+                            "count": 4,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "768680855726981140",
+                                "name": "crumpAngry"
+                            },
+                            "count": 3,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "768684815514992680",
+                                "name": "crumpAnime"
+                            },
+                            "count": 2,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "781412780522995722",
+                                "name": "crumpCrush",
+                                "animated": true
+                            },
+                            "count": 3,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "845020525461504022",
+                                "name": "crumpPig"
+                            },
+                            "count": 3,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "845020512718815253",
+                                "name": "crumpFang"
+                            },
+                            "count": 1,
+                            "me": false
+                        }
+                    ],
+                    "spoiler": "false"
+                },
+                {
+                    "mediaType": "youtube",
+                    "author": "stoopidprogram#5479",
+                    "mediaLink": "-IvUyOq_aN8",
+                    "discordLink": "https://discord.com/channels/124710211960176640/701637376274858034/858918306719203338",
+                    "reactions": [
+                        {
+                            "emoji": {
+                                "id": "845515129046433872",
+                                "name": "YEP"
+                            },
+                            "count": 22,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": null,
+                                "name": "\ud83c\udde8"
+                            },
+                            "count": 2,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": null,
+                                "name": "\ud83c\uddf4"
+                            },
+                            "count": 2,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": null,
+                                "name": "\ud83c\uddf0"
+                            },
+                            "count": 2,
+                            "me": false
+                        }
+                    ],
+                    "spoiler": "false"
+                }
+            ],
+            [
+                {
+                    "mediaType": "youtube",
+                    "author": "SemiSweetChief#7230",
+                    "mediaLink": "AQb2O6_fweA",
+                    "discordLink": "https://discord.com/channels/124710211960176640/701637376274858034/858918329737805824",
+                    "reactions": [
+                        {
+                            "emoji": {
+                                "id": "666320711731773441",
+                                "name": "PES_GucciFlex"
+                            },
+                            "count": 4,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "733995789038125106",
+                                "name": "CH_PepeFuckOff",
+                                "animated": true
+                            },
+                            "count": 10,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": null,
+                                "name": "\ud83c\uddf4"
+                            },
+                            "count": 8,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": null,
+                                "name": "\ud83c\uddf1"
+                            },
+                            "count": 9,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": null,
+                                "name": "\ud83c\udde9"
+                            },
+                            "count": 8,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "794299147372593182",
+                                "name": "yikesJAM",
+                                "animated": true
+                            },
+                            "count": 5,
+                            "me": false
+                        }
+                    ],
+                    "spoiler": "false"
+                },
+                {
+                    "mediaType": "youtube",
+                    "author": "Nit_su#3850",
+                    "mediaLink": "ewevnal5PvY",
+                    "discordLink": "https://discord.com/channels/124710211960176640/701637376274858034/858918428558229545",
+                    "reactions": [
+                        {
+                            "emoji": {
+                                "id": "704457199606431746",
+                                "name": "HYPERMEGACOCKERWTF"
+                            },
+                            "count": 2,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "814612933237276692",
+                                "name": "roflgatorKek"
+                            },
+                            "count": 5,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "775615850803232768",
+                                "name": "BOOBA",
+                                "animated": true
+                            },
+                            "count": 3,
+                            "me": false
+                        }
+                    ],
+                    "spoiler": "false"
+                },
+                {
+                    "mediaType": "youtube",
+                    "author": "KillCallous#0666",
+                    "mediaLink": "V7gKTIOcwdE",
+                    "discordLink": "https://discord.com/channels/124710211960176640/701637376274858034/858918487694376991",
+                    "reactions": [
+                        {
+                            "emoji": {
+                                "id": "814612942309949481",
+                                "name": "roflgatorPog"
+                            },
+                            "count": 18,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "792628565170585621",
+                                "name": "TriDance",
+                                "animated": true
+                            },
+                            "count": 21,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "588485177282658304",
+                                "name": "billyReady",
+                                "animated": true
+                            },
+                            "count": 6,
+                            "me": false
+                        }
+                    ],
+                    "spoiler": "false"
+                }
+            ],
+            [
+                {
+                    "mediaType": "youtube",
+                    "author": "fibrillations#4097",
+                    "mediaLink": "0S5eybkw38w",
+                    "discordLink": "https://discord.com/channels/124710211960176640/701637376274858034/858918959353036800",
+                    "reactions": [
+                        {
+                            "emoji": {
+                                "id": "845020515001565254",
+                                "name": "crumpPogfish"
+                            },
+                            "count": 8,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "792649325305921596",
+                                "name": "PianoTime",
+                                "animated": true
+                            },
+                            "count": 2,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "738923196245344297",
+                                "name": "HYPERHEADBANG",
+                                "animated": true
+                            },
+                            "count": 10,
+                            "me": false
+                        }
+                    ],
+                    "spoiler": "false"
+                },
+                {
+                    "mediaType": "youtube",
+                    "author": "Sweeet#5791",
+                    "mediaLink": "6b6SWEE-ytc",
+                    "discordLink": "https://discord.com/channels/124710211960176640/701637376274858034/858919162319601724",
+                    "reactions": [
+                        {
+                            "emoji": {
+                                "id": "759581948116205578",
+                                "name": "pepga"
+                            },
+                            "count": 18,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "580871859202031646",
+                                "name": "FeelsDankMan"
+                            },
+                            "count": 20,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "766464998612271155",
+                                "name": "WAYTOOCRUMP",
+                                "animated": true
+                            },
+                            "count": 10,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "728465923341549588",
+                                "name": "pepega"
+                            },
+                            "count": 15,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "665418654594105345",
+                                "name": "pepegaHammer",
+                                "animated": true
+                            },
+                            "count": 15,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "855587027696615444",
+                                "name": "pepegaCHAT",
+                                "animated": true
+                            },
+                            "count": 15,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "612574907838234624",
+                                "name": "pepegaHammer",
+                                "animated": true
+                            },
+                            "count": 14,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "807459499782307880",
+                                "name": "pepegaChat",
+                                "animated": true
+                            },
+                            "count": 13,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "503617380329586729",
+                                "name": "Pepega"
+                            },
+                            "count": 13,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "792656046606516234",
+                                "name": "Pepega"
+                            },
+                            "count": 13,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "749639342984790106",
+                                "name": "pepegaChat",
+                                "animated": true
+                            },
+                            "count": 13,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "798033950727471114",
+                                "name": "pepegaHammer",
+                                "animated": true
+                            },
+                            "count": 14,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "695171995276410910",
+                                "name": "pepegaThumbsUp"
+                            },
+                            "count": 13,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "620790481168891925",
+                                "name": "Pepega"
+                            },
+                            "count": 14,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "616333883725840424",
+                                "name": "Pepega"
+                            },
+                            "count": 13,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "747139656750989341",
+                                "name": "Pepega"
+                            },
+                            "count": 13,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "689957177179504691",
+                                "name": "Pepega"
+                            },
+                            "count": 13,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "720264334478934037",
+                                "name": "Pepega"
+                            },
+                            "count": 13,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "662859458925559852",
+                                "name": "Pepega"
+                            },
+                            "count": 12,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "608889887864782888",
+                                "name": "gachiW",
+                                "animated": true
+                            },
+                            "count": 1,
+                            "me": false
+                        }
+                    ],
+                    "spoiler": "false"
+                },
+                {
+                    "mediaType": "youtube",
+                    "author": "C1ifbar#2026",
+                    "mediaLink": "ynL_5fvhCpA",
+                    "discordLink": "https://discord.com/channels/124710211960176640/701637376274858034/858919262243258399",
+                    "reactions": [
+                        {
+                            "emoji": {
+                                "id": "844965017144393768",
+                                "name": "klaatusit1"
+                            },
+                            "count": 8,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "797887016913862736",
+                                "name": "TE_PepeCringe"
+                            },
+                            "count": 1,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "819557490001707048",
+                                "name": "peepoCringe"
+                            },
+                            "count": 1,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "660012144586129448",
+                                "name": "peepocringe"
+                            },
+                            "count": 1,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "812446944093274112",
+                                "name": "peepocringe"
+                            },
+                            "count": 1,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "815466097985454085",
+                                "name": "pepeCringe"
+                            },
+                            "count": 1,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "644479445045870612",
+                                "name": "PES_KindaCringe"
+                            },
+                            "count": 1,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "699793163665276949",
+                                "name": "widecringe1"
+                            },
+                            "count": 1,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "699793163908284437",
+                                "name": "widecringe2"
+                            },
+                            "count": 1,
+                            "me": false
+                        }
+                    ],
+                    "spoiler": "false"
+                }
+            ],
+            [
+                {
+                    "mediaType": "youtube",
+                    "author": "mental3rror#2518",
+                    "mediaLink": "VlI53SJOMIw",
+                    "discordLink": "https://discord.com/channels/124710211960176640/701637376274858034/858919733785002004",
+                    "reactions": [
+                        {
+                            "emoji": {
+                                "id": "845020515001565254",
+                                "name": "crumpPogfish"
+                            },
+                            "count": 4,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "845020509929340999",
+                                "name": "crumpHappy"
+                            },
+                            "count": 9,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "845020506633011231",
+                                "name": "crumpL"
+                            },
+                            "count": 4,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "845020512718815254",
+                                "name": "crumpCrump"
+                            },
+                            "count": 1,
+                            "me": false
+                        }
+                    ],
+                    "spoiler": "false"
+                },
+                {
+                    "mediaType": "youtube",
+                    "author": "DJ Mustard#2884",
+                    "mediaLink": "istjsPBoOEE",
+                    "discordLink": "https://discord.com/channels/124710211960176640/701637376274858034/858920792490246155",
+                    "reactions": [
+                        {
+                            "emoji": {
+                                "id": "814612942309949481",
+                                "name": "roflgatorPog"
+                            },
+                            "count": 9,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "730833942344892517",
+                                "name": "roflgatorEZ"
+                            },
+                            "count": 1,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": null,
+                                "name": "\ud83d\udc95"
+                            },
+                            "count": 1,
+                            "me": false
+                        }
+                    ],
+                    "spoiler": "false"
+                },
+                {
+                    "mediaType": "image",
+                    "author": "Krispet#8080",
+                    "text": "Oh... its over? I guess I'll see you guys July 4th... maybe I'll get some art this time... haha.. right?  :Pain:",
+                    "mediaLink": "https://cdn.discordapp.com/attachments/701637376274858034/858936420844175370/oh_god.png",
+                    "discordLink": "https://discord.com/channels/124710211960176640/701637376274858034/858936422797672449",
+                    "reactions": [
+                        {
+                            "emoji": {
+                                "id": "814612933237276692",
+                                "name": "roflgatorKek"
+                            },
+                            "count": 38,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "719922251260231680",
+                                "name": "roflgatorSleeper"
+                            },
+                            "count": 13,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "818169135405465640",
+                                "name": "Buss",
+                                "animated": true
+                            },
+                            "count": 9,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "760016042881449985",
+                                "name": "BAN"
+                            },
+                            "count": 4,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "814612938362585198",
+                                "name": "roflgatorOmega"
+                            },
+                            "count": 5,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "759510837324677132",
+                                "name": "ban",
+                                "animated": true
+                            },
+                            "count": 5,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "732034967080534088",
+                                "name": "pepe_ban"
+                            },
+                            "count": 4,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "833660353178894398",
+                                "name": "roflgatorCOPIUM"
+                            },
+                            "count": 2,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": null,
+                                "name": "\ud83d\ude02"
+                            },
+                            "count": 2,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "844965017144393768",
+                                "name": "klaatusit1"
+                            },
+                            "count": 3,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "585924839550746625",
+                                "name": "roflgasm"
+                            },
+                            "count": 3,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "725031108189618226",
+                                "name": "roflgatorInvestigate"
+                            },
+                            "count": 2,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "857764939631951882",
+                                "name": "Pain"
+                            },
+                            "count": 1,
+                            "me": false
+                        },
+                        {
+                            "emoji": {
+                                "id": "676523867946352654",
+                                "name": "roflgatorNoWave"
+                            },
+                            "count": 1,
+                            "me": false
+                        }
+                    ],
+                    "spoiler": "false",
+                    "thumbnail": "https://i.imgur.com/ZLR589e.png"
+                }
+            ]
+        ]
     }
 }
