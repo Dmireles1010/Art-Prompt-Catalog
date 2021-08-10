@@ -79828,68 +79828,8 @@
                     "spoiler": "false",
                     "thumbnail": "https://i.imgur.com/faRwefg.jpeg"
                 },
-                {
-                    "mediaType": "image",
-                    "author": "Navixxu#0666",
-                    "text": "Not confident in my art, but all of you amazing artists inspired me to at least sketch so heres Bobe ",
-                    "mediaLink": "https://cdn.discordapp.com/attachments/701637376274858034/874476261379031040/image0.png",
-                    "discordLink": "https://discord.com/channels/124710211960176640/701637376274858034/874476264210178108",
-                    "reactions": [
-                        {
-                            "emoji": {
-                                "id": "615829348863311883",
-                                "name": "roflHappy"
-                            },
-                            "count": 21,
-                            "me": false
-                        }
-                    ],
-                    "spoiler": "false",
-                    "thumbnail": "https://i.imgur.com/9ZiT0Ow.png"
-                },
-                {
-                    "mediaType": "image",
-                    "author": "SirGagz#5987",
-                    "text": "Congrats on the stream Rob! Managed to finish this just in time ",
-                    "mediaLink": "https://cdn.discordapp.com/attachments/701637376274858034/874481203095404584/image0.png",
-                    "discordLink": "https://discord.com/channels/124710211960176640/701637376274858034/874481207772057660",
-                    "reactions": [
-                        {
-                            "emoji": {
-                                "id": "814612942309949481",
-                                "name": "roflgatorPog"
-                            },
-                            "count": 19,
-                            "me": false
-                        },
-                        {
-                            "emoji": {
-                                "id": "860084959942148107",
-                                "name": "roflgatorKyute"
-                            },
-                            "count": 18,
-                            "me": false
-                        },
-                        {
-                            "emoji": {
-                                "id": "676579958507831306",
-                                "name": "POGOGGERS"
-                            },
-                            "count": 6,
-                            "me": false
-                        },
-                        {
-                            "emoji": {
-                                "id": "870143537243648062",
-                                "name": "crumpPogfish"
-                            },
-                            "count": 6,
-                            "me": false
-                        }
-                    ],
-                    "spoiler": "false",
-                    "thumbnail": "https://i.imgur.com/qIKvfIR.png"
-                }
+
+
             ],
             [
                 {
@@ -80417,6 +80357,25 @@
                     ],
                     "spoiler": "false",
                     "thumbnail": "https://i.imgur.com/5mBrQSo.png"
+                },
+                {
+                    "mediaType": "image",
+                    "author": "Navixxu#0666",
+                    "text": "Not confident in my art, but all of you amazing artists inspired me to at least sketch so heres Bobe ",
+                    "mediaLink": "https://cdn.discordapp.com/attachments/701637376274858034/874476261379031040/image0.png",
+                    "discordLink": "https://discord.com/channels/124710211960176640/701637376274858034/874476264210178108",
+                    "reactions": [
+                        {
+                            "emoji": {
+                                "id": "615829348863311883",
+                                "name": "roflHappy"
+                            },
+                            "count": 21,
+                            "me": false
+                        }
+                    ],
+                    "spoiler": "false",
+                    "thumbnail": "https://i.imgur.com/9ZiT0Ow.png"
                 }
             ],
             [
@@ -80680,7 +80639,8 @@
                     ],
                     "spoiler": "false",
                     "thumbnail": "https://i.imgur.com/ah1N8QC.png"
-                }
+                },
+
             ]
         ]
     }
