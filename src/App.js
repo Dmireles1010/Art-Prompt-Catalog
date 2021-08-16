@@ -4,7 +4,6 @@ import {Container} from 'react-bootstrap';
 import TitleContainer from './Component/TitleContainer';
 import data from './showcaseData/totalShowcaseData.json'
 import NavbarHeader from './Component/NavbarHeader';
-import CookieConsent from "react-cookie-consent";
 class App extends Component{
 
   constructor(props){
@@ -30,14 +29,6 @@ class App extends Component{
               </Container>
               : <div></div>
         }
-        <CookieConsent
-          location="bottom"
-          style={{ background: "#343a40"}}
-          buttonStyle={{ color: "#4e503b", fontSize: "13px" }}
-          expires={150}
-        >
-          This website uses cookies to enhance the user experience.{" "}
-      </CookieConsent>
       </div>
 
     );
