@@ -7,8 +7,6 @@ To facilitate the submission process, artists within the community share their a
 While the Community Art Repository no longer receives active updates, you can explore the current and up-to-date artwork from this community by visiting `https://goldengator.booru.org/`. This website I've built now serves as an archive, celebrating the community's rich artistic journey and showcasing a diverse range of artwork inspired by their collective imagination.
 
 Through this repository, we celebrate the creativity and talent within this community, showcasing a diverse range of artwork inspired by their collective imagination.
-# Preview of Website
-![Preview](https://i.imgur.com/HXvECau.png)
 
 ## Features
 
@@ -21,19 +19,17 @@ Through this repository, we celebrate the creativity and talent within this comm
 - **Explicit Content Filter**: To maintain a safe browsing experience, the repository employs an explicit content filter. Artwork containing explicit images is initially blurred, and users can choose to view the unblurred image by clicking on the artwork.
 - **Data Repository**: The project's data is stored in a JSON file, serving as a comprehensive repository for all the information used in this project. The artwork images are directly linked from the Discord channel. You can access the JSON file containing the artwork data at `src/showcaseData/totalShowcaseData.json`.
 
-
-
-
-
+# Preview of Website
+![Preview](https://i.imgur.com/HXvECau.png)
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/community-art-repository.git`
+1. Clone the repository: `git clone https://github.com/Dmireles1010/Community-Art-Repository.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open the application in your browser: `http://localhost:3000`
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/Dmireles1010/Community-Art-Repository/blob/main/LICENSE.txt).
 
