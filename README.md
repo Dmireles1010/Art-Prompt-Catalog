@@ -1,4 +1,4 @@
-# Community Art Repository
+# Art Prompt Catalog
 
 Community Art Repository is a React website that I've developed from scratch. It serves as an archive of artwork from a vibrant art community called "The Golden Gator," where monthly art showcases take place. Each month, community members participate in themed art prompts, creating and submitting their own artwork based on their interpretations of the prompts. The community, which operates as a role play group, actively encourages fans and viewers to contribute their own art.
 
